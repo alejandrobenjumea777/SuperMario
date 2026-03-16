@@ -29,38 +29,38 @@ body {
 }
 #caja {
     position:absolute;
-    top: 250px;
-    left: 850px;
+    top: 350px;
+    left: 425px;
 }
 #caja2 {
     position:absolute;
-    top: 125px;
-    left: 1250px;
+    top: 250px;
+    left: 700px;
 }
 #caja3 {
     position:absolute;
-    top: 250px;
-    left: 1200px;
+    top: 350px;
+    left: 675px;
 }
 #caja4 {
     position:absolute;
-    top: 250px;
-    left: 1250px;
+    top: 350px;
+    left: 725px;
 }
 #ladrillo {
     position:absolute;
-    top: 250px;
-    left: 1225px;
+    top: 350px;
+    left: 700px;
 }
 #ladrillo2 {
     position:absolute;
-    top: 250px;
-    left: 1175px;
+    top: 350px;
+    left: 750px;
 }
 #ladrillo3 {
     position:absolute;
-    top: 250px;
-    left: 1275px;
+    top: 350px;
+    left: 650px;
 }
 #montana1 {
     position:absolute;
@@ -69,13 +69,13 @@ body {
 }
 #montana2 {
     position:absolute;
-    top: 650px;
-    left: 1200px;
+    top: 400px;
+    left: 500px;
 }
 #mario {
     position:absolute;
-    top: 750px;
-    left: 750px;
+    top: 466px;
+    left: 350px;
 }
 #suelo {
     width: 900px;
@@ -83,4 +83,19 @@ body {
     position: absolute;
     top: 500px;
     background-image: url('../img/suelo.png');
+}
+#planta {
+    position:absolute;
+    top: 460px;
+    left: 400px;
+}
+#planta2 {
+    position:absolute;
+    top: 460px;
+    left: 865px;
+}
+#goomba {
+    position:absolute;
+    top: 465px;
+    left: 665px;
 }
